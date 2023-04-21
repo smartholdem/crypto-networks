@@ -26,77 +26,52 @@
                 "htlcRefund": 0
             }
         },
-        "ignoreInvalidSecondSignatureField": true,
-        "ignoreExpiredTransactions": true,
         "vendorFieldLength": 64,
-        "multiPaymentLimit": 128
+        "multiPaymentLimit": 64
     },
     {
-        "height": 10800,
-        "reward": 20000000
+        "height": 5600,
+        "reward": 200000000
     },
     {
-        "height": 10900,
+        "height": 6600,
         "block": {
             "maxTransactions": 150,
             "maxPayload": 6300000
         }
     },
     {
-        "height": 11000,
-        "block": {
-            "maxTransactions": 500,
-            "maxPayload": 21000000
-        }
-    },
-    {
-        "height": 11200,
-        "ignoreInvalidSecondSignatureField": false
-    },
-    {
-        "height": 11400,
+        "height": 7600,
         "vendorFieldLength": 255
     },
     {
-        "height": 11500,
+        "height": 8204000,
         "block": {
             "idFullSha256": true
         }
     },
     {
-        "height": 11600,
-        "ignoreExpiredTransactions": false
-    },
-    {
-        "height": 11700,
+        "height": 9000000,
         "block": {
             "acceptExpiredTransactionTimestamps": false
         }
     },
     {
-        "height": 11800,
-        "p2p": {
-            "minimumVersions": [">=2.6"]
-        }
+        "height": 11273000,
+        "aip11": true
     },
     {
-        "height": 11900,
-        "aip11": true,
-        "htlcEnabled": true
-    },
-    {
-        "height": 12000,
+        "height": 13705000,
         "aip36": true
     },
     {
-        "height": 12100,
-        "aip37": true,
-        "p2p": {
-            "minimumVersions": [">=3.0"]
-        }
+        "height": 17632000,
+        "aip37": true
     },
     {
-        "height": 12200,
-        "blockBurnAddress": true
+        "height": 21235300,
+        "p2p": {
+            "minimumVersions": [">=3.5.0"]
+        }
     }
 ]
