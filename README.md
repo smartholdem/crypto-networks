@@ -1,2 +1,2 @@
-# crypto-networks
-SmartHoldem Networks
+# Network Configurations for the SmartHoldem Blockchain. Developed for TypeScript.
+
