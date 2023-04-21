@@ -1,0 +1,19 @@
+{
+    "name": "testnet",
+    "messagePrefix": "TEST message:\n",
+    "bip32": {
+        "public": 70617039,
+        "private": 70615956
+    },
+    "pubKeyHash": 65,
+    "nethash": "922a345f4b86361f9e0ccd753e7e0eeeba1cc2901c73f70c36ae86c2a2ad465a",
+    "wif": 68,
+    "slip44": 1,
+    "aip20": 0,
+    "burnAddress": "",
+    "client": {
+        "token": "TSTH",
+        "symbol": "TŠ",
+        "explorer": "https://testnet.smartholdem.io"
+    }
+}
