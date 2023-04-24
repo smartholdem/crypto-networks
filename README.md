@@ -1,2 +1,3 @@
-# Network Configurations for the SmartHoldem Blockchain. Developed for TypeScript.
+## Network Configurations for the SmartHoldem Blockchain
+
 
