@@ -2,8 +2,8 @@
     "name": "mainnet",
     "messagePrefix": "STH message:\n",
     "bip32": {
-        "public": "0x2bf496f",
-        "private": "0x2bf4537"
+        "public": 46090607,
+        "private": 46089527
     },
     "pubKeyHash": 63,
     "nethash": "fc46bfaf9379121dd6b09f5014595c7b7bd52a0a6d57c5aff790b42a73c76da7",
