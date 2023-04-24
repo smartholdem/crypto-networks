@@ -1,13 +1,19 @@
 {
     "name": "@smartholdem/crypto-networks",
-    "version": "1.0.0",
-    "description": "Network configurations for the SmartHoldem Blockchain. Developed for TypeScript.",
+    "version": "1.6.1",
+    "description": "Network configurations for the SmartHoldem Blockchain",
     "license": "MIT",
     "contributors": [
         "TechnoL0g <technolog@smartholdem.io>"
     ],
     "files": [
         "dist"
+    ],
+    "keywords": [
+        "smartholdem",
+        "blockchain",
+        "crypto",
+        "dpos"
     ],
     "main": "dist/index.js",
     "types": "dist/index.d.ts",
