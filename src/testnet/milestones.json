@@ -8,18 +8,18 @@
             "version": 0,
             "idFullSha256": true,
             "maxTransactions": 2000,
-            "maxPayload": 2097152
+            "maxPayload": 84000000
         },
         "epoch": "2023-07-21T00:00:00.000Z",
         "fees": {
             "staticFees": {
-                "transfer": 10000000,
+                "transfer": 100000000,
                 "secondSignature": 500000000,
                 "delegateRegistration": 2500000000,
                 "vote": 100000000,
                 "multiSignature": 500000000,
                 "ipfs": 500000000,
-                "multiPayment": 10000000,
+                "multiPayment": 100000000,
                 "delegateResignation": 2500000000,
                 "htlcLock": 10000000,
                 "htlcClaim": 0,
@@ -27,25 +27,9 @@
             }
         },
         "vendorFieldLength": 255,
-        "multiPaymentLimit": 256,
+        "multiPaymentLimit": 96,
         "htlcEnabled": true,
         "blockBurnAddress": true,
         "aip11": true
-    },
-    {
-        "height": 16100,
-        "reward": "0"
-    },
-    {
-        "height": 16100,
-        "fees": {
-            "staticFees": {
-                "transfer": 100000000,
-                "multiPayment": 100000000
-            }
-        },
-        "block": {
-            "maxPayload": 84000000
-        }
     }
 ]
