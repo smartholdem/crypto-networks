@@ -33,7 +33,19 @@
         "aip11": true
     },
     {
-        "height": 1,
-        "reward": 0
+        "height": 16100,
+        "reward": "0"
+    },
+    {
+        "height": 16100,
+        "fees": {
+            "staticFees": {
+                "transfer": 100000000,
+                "multiPayment": 100000000
+            }
+        },
+        "block": {
+            "maxPayload": 84000000
+        }
     }
 ]

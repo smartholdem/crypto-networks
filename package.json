@@ -1,6 +1,6 @@
 {
     "name": "@smartholdem/crypto-networks",
-    "version": "1.6.2",
+    "version": "1.6.3",
     "description": "Network configurations for the SmartHoldem Blockchain",
     "license": "MIT",
     "contributors": [
