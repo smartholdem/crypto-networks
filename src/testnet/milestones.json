@@ -27,7 +27,7 @@
             }
         },
         "vendorFieldLength": 255,
-        "multiPaymentLimit": 96,
+        "multiPaymentLimit": 256,
         "htlcEnabled": true,
         "blockBurnAddress": true,
         "aip11": true
