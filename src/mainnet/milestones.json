@@ -43,5 +43,9 @@
     {
         "height": 564000,
         "aip37": true
+    },
+    {
+        "height": 11800000,
+        "aip36": true
     }
 ]
